@@ -23,32 +23,6 @@ All workflows are configured to run **AUTOMATICALLY**. Here's how each one works
 
 ---
 
-## 📊 Profile Stats Workflow (`profile-stats.yml`)
-
-### Automatic Triggers:
-- ✅ **On push to main branch** - Runs immediately when you push
-- ✅ **Every 6 hours** - Scheduled automatic updates
-- ✅ **Manual trigger** - Optional via Actions tab
-
-### What It Does:
-- Updates WakaTime coding statistics in your README
-- Shows languages, editors, OS, timezone, commits, lines of code
-
-### Setup Required:
-- **Optional:** Add `WAKATIME_API_KEY` to repository secrets if you want WakaTime stats
-  - Without it, the workflow still runs but won't show WakaTime data
-  - Other stats (GitHub stats) work without any setup
-
-### How to Add WakaTime API Key (Optional):
-1. Go to https://wakatime.com/settings/account
-2. Copy your API key
-3. Go to your GitHub repo → Settings → Secrets and variables → Actions
-4. Click "New repository secret"
-5. Name: `WAKATIME_API_KEY`, Value: (paste your API key)
-6. Click "Add secret"
-
----
-
 ## 📈 Activity Update Workflow (`update-activity.yml`)
 
 ### Automatic Triggers:
@@ -70,7 +44,6 @@ All workflows are configured to run **AUTOMATICALLY**. Here's how each one works
 | Workflow | Auto on Push | Auto Schedule | Manual Trigger | Setup Required |
 |----------|-------------|---------------|----------------|----------------|
 | Snake Game | ✅ Yes | ✅ Every 6h | ✅ Yes | ❌ None |
-| Profile Stats | ✅ Yes | ✅ Every 6h | ✅ Yes | ⚠️ Optional (WakaTime) |
 | Activity Update | ❌ No | ✅ Every 6h | ✅ Yes | ❌ None |
 
 ---
