@@ -7,45 +7,9 @@
 
 <div align="center">
   
-  <!-- Animated Pixel Art Character - Coding -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/animations/developer.svg" alt="Developer" width="400"/>
-  
-  <!-- Animated Pixel Art Character - Typing -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/animations/typing.svg" alt="Typing" width="400"/>
-  
-</div>
-
-<div align="center">
-  
-  <!-- Pixel Art Banner -->
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/37927780875ac2ef02e81417bfb8f8084dbd146d/bottom_header.svg" alt="Pixel Art Banner" width="100%" style="max-width: 1000px;"/>
-  
-</div>
-
-<div align="center">
-  
   [![GitHub followers](https://img.shields.io/github/followers/GSL006?style=for-the-badge&logo=github&labelColor=0D1117&color=00FF00)](https://github.com/GSL006)
   [![GitHub stars](https://img.shields.io/github/stars/GSL006?style=for-the-badge&logo=github&labelColor=0D1117&color=00FF00)](https://github.com/GSL006)
   [![Profile Views](https://komarev.com/ghpvc/?username=GSL006&color=00FF00&style=for-the-badge&label=Profile+Views)](https://github.com/GSL006)
-  
-</div>
-
----
-
-
-<div align="center">
-  
-  <!-- Large Pixel Art Character - Main Display -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/animations/developer.svg" alt="Developer Coding" width="500"/>
-  
-</div>
-
-<div align="center">
-  
-  <!-- Pixel Art Character Collection - Side by Side -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/animations/rocket.svg" alt="Rocket" width="250"/>
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/animations/gamedev.svg" alt="Game Dev" width="250"/>
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/animations/typing.svg" alt="Typing" width="250"/>
   
 </div>
 
@@ -233,15 +197,6 @@ class SoftwareEngineer:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-### 🎯 Daily Coding Stats
-
-<div align="center">
-  
-  <!-- Animated Coding Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GSL006&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=ffffff&cache_seconds=86400" alt="WakaTime Stats"/>
-  
-</div>
-
 ---
 
 ## 🔗 Connect With Me
@@ -272,17 +227,6 @@ class SoftwareEngineer:
 <div align="center">
   
   ![trophy](https://github-profile-trophy.vercel.app/?username=GSL006&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7)
-  
-</div>
-
-### 🎨 Animated Pixel Art Showcase
-
-<div align="center">
-  
-  <!-- Pixel Art Character Collection -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/animations/developer.svg" alt="Developer" width="200"/>
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/animations/rocket.svg" alt="Rocket" width="200"/>
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/animations/gamedev.svg" alt="Game Dev" width="200"/>
   
 </div>
 
