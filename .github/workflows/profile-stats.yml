@@ -14,6 +14,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    # Only run if WakaTime API key is configured (optional)
+    if: ${{ secrets.WAKATIME_API_KEY != null && secrets.WAKATIME_API_KEY != '' }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -22,14 +24,14 @@ jobs:
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_PROJECTS: "true"
           SHOW_EDITORS: "true"
           SHOW_OS: "true"
           SHOW_LANGUAGE: "true"
           SHOW_TIMEZONE: "true"
-          SHOW_COMMITS: "true"
+          SHOW_COMMIT: "true"
           SHOW_LINES_OF_CODE: "true"
           SHOW_PROFILE_VIEWS: "true"
           SHOW_LANGUAGE_PER_REPO: "true"
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
