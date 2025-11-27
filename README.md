@@ -113,11 +113,3 @@ Designing real-world DSA projects and conducting hands-on coding sessions on BST
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gagan-sl)
   
 </div>
-
----
-
-<div align="center">
-  
-  **⭐️ From [GSL006](https://github.com/GSL006) with ❤️**
-  
-</div>
