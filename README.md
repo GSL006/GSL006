@@ -32,7 +32,6 @@
 
 ---
 
-## 🎨 Animated Pixel Art Characters
 
 <div align="center">
   
