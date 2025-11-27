@@ -17,8 +17,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Create output directory
         run: mkdir -p output
@@ -27,11 +25,8 @@ jobs:
         uses: Platane/snk@v3.4.1
         with:
           github_user_name: GSL006
-          gif_out_path: output/github-contribution-grid-snake.gif
-          svg_out_path: output/github-contribution-grid-snake.svg
-          theme: dark
-          color_snake: '#00ff00'
-          color_dots: '#1f77b4:#ff7f0e:#2ca02c:#d62728:#9467bd'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: output/github-contribution-grid-snake.svg
 
       - name: Commit and push
         run: |
