@@ -76,7 +76,7 @@ class SoftwareEngineer:
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/GSL006/GSL006/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/GSL006/GSL006/main/output/github-contribution-grid-snake.svg)
   
 </div>
 
