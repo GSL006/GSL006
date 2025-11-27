@@ -14,14 +14,6 @@
 
 ---
 
-Backend Developer & ML Engineer building low-latency trading systems and ML-powered solutions. Currently working on high-performance trading infrastructure and blockchain applications.
-
-**📍 Location:** Bangalore, Karnataka, India  
-**🎓 Education:** B.Tech Computer Science @ PES University  
-**📧 Email:** gagansl62004@gmail.com
-
----
-
 <div align="center">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GSL006&show_icons=true&theme=dark&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=ffffff&cache_seconds=86400"/>
@@ -45,25 +37,71 @@ Backend Developer & ML Engineer building low-latency trading systems and ML-powe
 
 ---
 
-**Back-end Developer Intern** | GoQuant *(Mar 2025 – Present)*  
-Engineering low-latency trading systems for global exchanges. Building real-time OTC trading flows and high-performance WebSocket gateways.
+<table>
+<tr>
+<td valign="top" width="50%">
 
-**Blockchain Developer Intern** | AnythingAI *(Dec 2024 – Mar 2025)*  
-Built automated trading systems and cryptocurrency trading bots. Migrated data infrastructure from CSV/Sheets to PostgreSQL.
+**🔹 Back-end Developer Intern**  
+*GoQuant | Mar 2025 – Present*  
+*Remote*
 
-**AI/ML Research Intern** | RAPID PES University *(Jun 2024 – Aug 2024)*  
-Designed news-aware stock prediction pipeline achieving 89% accuracy. Applied LDA topic modeling on 100K+ news articles.
+Engineering low-latency trading systems for global exchanges (BitMEX, Binance, OKX). Building real-time OTC trading flows and high-performance WebSocket gateways.
 
-**Teaching Assistant Head** | PES University *(Jul 2025 – Present)*  
-Designing real-world DSA projects and conducting hands-on coding sessions.
+**🔹 Blockchain Developer Intern**  
+*AnythingAI | Dec 2024 – Mar 2025*  
+*Remote*
+
+Built automated trading systems and cryptocurrency trading bots (1000+ trades/day). Migrated data infrastructure from CSV/Sheets to PostgreSQL.
+
+</td>
+<td valign="top" width="50%">
+
+**🔹 AI/ML Research Intern**  
+*RAPID PES University | Jun 2024 – Aug 2024*  
+*On-Site*
+
+Designed news-aware stock prediction pipeline achieving **89% accuracy**. Applied LDA topic modeling on 100K+ news articles.
+
+**🔹 Teaching Assistant Head**  
+*PES University | Jul 2025 – Present*  
+*Hybrid*
+
+Designing real-world DSA projects and conducting hands-on coding sessions on BST and fundamental concepts.
+
+</td>
+</tr>
+</table>
 
 ---
 
-**Languages:** Python, Java, C/C++, Golang, TypeScript, SQL  
-**ML/AI:** PyTorch, TensorFlow, HuggingFace, Scikit-Learn  
-**Backend:** FastAPI, Node.js, Express.js, WebSocket, REST API  
-**Databases:** PostgreSQL, MySQL, MongoDB, Firebase  
-**Tools:** Docker, Git
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
