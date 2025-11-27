@@ -14,8 +14,6 @@
 
 ---
 
-## 🚀 About Me
-
 Backend Developer & ML Engineer building low-latency trading systems and ML-powered solutions. Currently working on high-performance trading infrastructure and blockchain applications.
 
 **📍 Location:** Bangalore, Karnataka, India  
@@ -23,8 +21,6 @@ Backend Developer & ML Engineer building low-latency trading systems and ML-powe
 **📧 Email:** gagansl62004@gmail.com
 
 ---
-
-## 📊 GitHub Stats
 
 <div align="center">
   
@@ -41,8 +37,6 @@ Backend Developer & ML Engineer building low-latency trading systems and ML-powe
 
 ---
 
-## 🐍 Contribution Snake Game
-
 <div align="center">
   
   ![Snake animation](https://raw.githubusercontent.com/GSL006/GSL006/main/output/github-contribution-grid-snake.svg)
@@ -50,8 +44,6 @@ Backend Developer & ML Engineer building low-latency trading systems and ML-powe
 </div>
 
 ---
-
-## 💼 Work Experience
 
 **Back-end Developer Intern** | GoQuant *(Mar 2025 – Present)*  
 Engineering low-latency trading systems for global exchanges. Building real-time OTC trading flows and high-performance WebSocket gateways.
@@ -67,8 +59,6 @@ Designing real-world DSA projects and conducting hands-on coding sessions.
 
 ---
 
-## 🛠️ Tech Stack
-
 **Languages:** Python, Java, C/C++, Golang, TypeScript, SQL  
 **ML/AI:** PyTorch, TensorFlow, HuggingFace, Scikit-Learn  
 **Backend:** FastAPI, Node.js, Express.js, WebSocket, REST API  
@@ -76,17 +66,6 @@ Designing real-world DSA projects and conducting hands-on coding sessions.
 **Tools:** Docker, Git
 
 ---
-
-## 🎯 Featured Projects
-
-**DriveIO** - Full-stack car rental platform with real-time notifications and admin analytics  
-**StockGEN** - Transformer-based stock prediction with 79% accuracy using FinBERT  
-**AI Micro Trend Hunter** - Automated trend-spotting pipeline with Telegram alerts  
-**Location Based Reminder** - Geofencing web app with GPS-based notifications
-
----
-
-## 🔗 Connect
 
 <div align="center">
   
